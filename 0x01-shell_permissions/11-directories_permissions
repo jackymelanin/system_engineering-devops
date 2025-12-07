@@ -1,2 +1,2 @@
 #!/bin/bash
-# Script to add execute permission to all directories in the current directory
+chmod +x 11-directories_permissions
