@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script adds execute permission to the owner of the file hello
+chmod u+x hello
