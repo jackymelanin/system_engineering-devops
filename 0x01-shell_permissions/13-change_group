@@ -1,2 +1,3 @@
 #!/bin/bash
-# Change the group owner of the file named 'hello' to the group 'school'
+chgrp school hello
+ls -l hello | awk '{print $4}'
