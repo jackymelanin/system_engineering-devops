@@ -1,3 +1,2 @@
 #!/bin/bash
-# Change the group owner of the file named 'hello' to the group 'school'.
-chgrp school hello
+# Change the group owner of the file named 'hello' to the group 'school'
