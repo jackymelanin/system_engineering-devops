@@ -1,3 +1,2 @@
 #!/bin/bash
 chgrp school hello
-ls -l hello | awk '{print $4}'
