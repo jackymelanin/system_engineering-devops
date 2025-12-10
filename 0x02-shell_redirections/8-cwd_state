@@ -1,2 +1,2 @@
 #!/bin/bash
-# 8-cwd_state: Save the current directory contents to ls_cwd_content
+# Save current directory filenames to ls_cwd_content
