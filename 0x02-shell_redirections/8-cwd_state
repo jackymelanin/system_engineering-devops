@@ -1,2 +1,2 @@
 #!/bin/bash
-# Save current directory filenames to ls_cwd_content
+ls -la > ls_cwd_content
