@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
 # A Bash script that displays the PID and full path of all processes containing "bash"
-for pid in $(pgrep bash); do
-    echo "$pid $(readlink -f /proc/$pid/exe)"
-done
+pgrep -a bash
