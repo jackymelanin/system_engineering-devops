@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# A Bash script that lists all processes for the current user with exact formatting
-ps -o user=USER,start=STARTED,cmd=CMD
+# This script displays a list of currently running processes
+ps aux
