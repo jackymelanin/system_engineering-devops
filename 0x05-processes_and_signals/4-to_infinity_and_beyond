@@ -1,5 +1,5 @@
-#!/bin/bash
-# This script prints a string indefinitely with a 2-second delay
+#!/usr/bin/env bash
+This script prints a string indefinitely with a 2-second delay
 while true
 do
     echo "To infinity and beyond"
